@@ -1,3 +1,4 @@
+//program to write matrix
 #include <iostream>
 using namespace std;
 
